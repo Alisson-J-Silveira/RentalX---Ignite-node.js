@@ -1,0 +1,11 @@
+node_modules/
+yarn.lock
+.vscode
+esquema-tabelas-rentalx.png
+arquivo.csv
+
+
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
